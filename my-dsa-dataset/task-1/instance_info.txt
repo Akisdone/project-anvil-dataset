@@ -1,0 +1,8 @@
+Task Name: Email Validation
+Language: Python
+Difficulty: Easy
+Description: Implement a function to validate email address format
+Test Count: 10
+Key Concepts: String manipulation, conditional logic, pattern matching
+Learning Outcomes: String validation, basic algorithm design
+Problem Type: String Validation

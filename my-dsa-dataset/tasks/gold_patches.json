@@ -1,0 +1,52 @@
+[
+  {
+    "instance_id": "my-dsa-dataset.task-1",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-10",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-2",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-3",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-4",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-5",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-6",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-7",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-8",
+    "patch": "",
+    "prefix": "gold"
+  },
+  {
+    "instance_id": "my-dsa-dataset.task-9",
+    "patch": "",
+    "prefix": "gold"
+  }
+]

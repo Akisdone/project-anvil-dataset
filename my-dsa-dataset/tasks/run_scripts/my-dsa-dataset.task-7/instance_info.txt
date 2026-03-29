@@ -1,0 +1,6 @@
+Task Name: Valid Parentheses
+Language: Python
+Difficulty: Medium
+Description: Check if a string of parentheses is balanced and correctly ordered
+Test Count: 10
+Key Concepts: Stack, String Parsing, Algorithm

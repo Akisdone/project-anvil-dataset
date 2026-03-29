@@ -1,0 +1,10 @@
+### **Step 6: Create `instance_info.txt`**
+
+Create a new file and paste this:
+```
+Task Name: Merge Sorted Arrays
+Language: Python
+Difficulty: Medium
+Description: Merge two sorted arrays into a single sorted array
+Test Count: 8
+Key Concepts: Two-Pointer Technique, Arrays, Algorithm Efficiency

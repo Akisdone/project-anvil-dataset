@@ -1,0 +1,6 @@
+Task Name: Two Sum
+Language: Python
+Difficulty: Medium
+Description: Find two indices where array elements sum to target
+Test Count: 8
+Key Concepts: Hash Map, Array, Algorithm Optimization

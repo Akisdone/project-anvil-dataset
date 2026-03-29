@@ -1,0 +1,8 @@
+Task Name: Markdown Link Extractor
+Language: Python
+Difficulty: Easy-Medium
+Description: Extract all markdown links from text and return as list of tuples
+Test Count: 8
+Key Concepts: String parsing, regex patterns, markdown syntax
+Learning Outcomes: Pattern recognition, regex basics, text processing
+Problem Type: Text Parsing

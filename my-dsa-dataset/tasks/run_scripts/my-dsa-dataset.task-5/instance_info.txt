@@ -1,0 +1,6 @@
+Task Name: Find Duplicates in Array
+Language: Python
+Difficulty: Medium
+Description: Find all elements that appear more than once in an array
+Test Count: 8
+Key Concepts: Hash Sets, Arrays, Algorithm Optimization

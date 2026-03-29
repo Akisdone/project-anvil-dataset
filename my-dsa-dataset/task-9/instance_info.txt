@@ -1,0 +1,6 @@
+Task Name: LRU Cache Implementation
+Language: Python
+Difficulty: Hard
+Description: Implement an LRU Cache with O(1) get and put operations
+Test Count: 8
+Key Concepts: Hash Map, Doubly Linked List, Data Structures, OrderedDict

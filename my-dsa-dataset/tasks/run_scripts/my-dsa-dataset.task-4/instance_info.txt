@@ -1,0 +1,8 @@
+Task Name: Password Strength Checker
+Language: Python
+Difficulty: Easy-Medium
+Description: Evaluate password strength based on multiple criteria
+Test Count: 10
+Key Concepts: String validation, complexity scoring, conditionals
+Learning Outcomes: Multi-criteria validation, scoring algorithms, password security
+Problem Type: Validation Algorithm

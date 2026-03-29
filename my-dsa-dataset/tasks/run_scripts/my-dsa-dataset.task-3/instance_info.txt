@@ -1,0 +1,8 @@
+Task Name: Deep Key Finder
+Language: Python
+Difficulty: Medium
+Description: Find all values for a specific key in deeply nested dictionaries
+Test Count: 8
+Key Concepts: Recursion, nested data structures, dictionary traversal
+Learning Outcomes: Recursive thinking, tree traversal, complex data handling
+Problem Type: Data Structure Manipulation

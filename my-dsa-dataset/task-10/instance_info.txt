@@ -1,0 +1,8 @@
+Task Name: Find Rotation Point in Sorted Rotated Array
+Language: Python
+Difficulty: Hard
+Description: Find the minimum element index in a rotated sorted array using binary search
+Test Count: 10
+Key Concepts: Binary Search, array rotation, O(log n) optimization, edge cases
+Estimated Solving Time: 20-30 minutes
+Algorithm Type: Binary Search Optimization

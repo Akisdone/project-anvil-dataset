@@ -1,0 +1,11 @@
+repo,instance_id,base_commit,patch,test_patch,problem_statement,requirements,interface,repo_language,fail_to_pass,pass_to_pass,issue_specificity,issue_categories,before_repo_set_cmd,selected_test_files_to_run
+,my-dsa-dataset.task-1,,,,,,,Python,[],[],,,,['tasks/task-1/task_tests.py']
+,my-dsa-dataset.task-10,,,,,,,Python,[],[],,,,['tasks/task-10/task_tests.py']
+,my-dsa-dataset.task-2,,,,,,,Python,[],[],,,,['tasks/task-2/task_tests.py']
+,my-dsa-dataset.task-3,,,,,,,Python,[],[],,,,['tasks/task-3/task_tests.py']
+,my-dsa-dataset.task-4,,,,,,,Python,[],[],,,,['tasks/task-4/task_tests.py']
+,my-dsa-dataset.task-5,,,,,,,Python,[],[],,,,['tasks/task-5/task_tests.py']
+,my-dsa-dataset.task-6,,,,,,,Python,[],[],,,,['tasks/task-6/task_tests.py']
+,my-dsa-dataset.task-7,,,,,,,Python,[],[],,,,['tasks/task-7/task_tests.py']
+,my-dsa-dataset.task-8,,,,,,,Python,[],[],,,,['tasks/task-8/task_tests.py']
+,my-dsa-dataset.task-9,,,,,,,Python,[],[],,,,['tasks/task-9/task_tests.py']
